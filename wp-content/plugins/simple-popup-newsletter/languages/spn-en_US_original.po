@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simplepopupnewsletter\n"
+"POT-Creation-Date: 2015-09-12 18:53+0100\n"
+"PO-Revision-Date: 2015-09-12 18:53+0100\n"
+"Last-Translator: Zsolt <zsooolt2@hotmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: c:\\!_simplePopupNewsletter\\_new\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-popup-newsletter-import.php:42
+msgid "Import and append from .CSV file"
+msgstr ""
+
+#: simple-popup-newsletter-import.php:45
+msgid ""
+"If you want, first delete the contact data which will be duplicated. Because "
+"the plugin will append the CSV list."
+msgstr ""
+
+#: simple-popup-newsletter-import.php:46
+msgid "Select file"
+msgstr ""
+
+#: simple-popup-newsletter-import.php:47
+msgid ""
+"You should use the CSV file which was exported from the Simple Popup "
+"Newsletter Plugin."
+msgstr ""
+
+#: simple-popup-newsletter-import.php:49
+msgid "Import file"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:9
+msgid ""
+"Newsletter subscription! Add your email address and your name, than click "
+"subscription button."
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:10
+msgid "Enter your email address for unsubscription."
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:11
+msgid "Your name:"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:12
+msgid "Email address:"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:13
+msgid "Subscription"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:14
+msgid "Unsubscription"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:15
+msgid "Exit"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:47
+msgid "Language Text Options"
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:55
+msgid "Leave the value empty, if you want the text in English."
+msgstr ""
+
+#: simple-popup-newsletter-langs.php:56 simple-popup-newsletter-options.php:85
+msgid "Save Changes"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:26
+msgid "Setting Parameter Options"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:31
+msgid "Subscription and the unsubscription pop-up are active"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:36
+msgid "Showing subscription pop-up window after this delay in milliseconds"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:41
+msgid ""
+"Significant part of the unsubscription URI in order to show pop-up window on "
+"this page."
+msgstr ""
+
+#: simple-popup-newsletter-options.php:42
+msgid "For example:"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:47
+msgid ""
+"Insert subscription button in the text editor, or copy this code into the "
+"widget text."
+msgstr ""
+
+#: simple-popup-newsletter-options.php:53
+msgid ""
+"Insert unsubscription button in the text editor, or copy this code into the "
+"widget text."
+msgstr ""
+
+#: simple-popup-newsletter-options.php:59
+msgid "Your name"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:61
+msgid "Your email address"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:64
+#: simple-popup-newsletter-options.php:73
+msgid "Send"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:79
+msgid "Hide pop-up windows and allow my own HTML forms like these codes below"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:81
+msgid ""
+"Subscription HTML Form. (You can insert these in text widget for example.)"
+msgstr ""
+
+#: simple-popup-newsletter-options.php:82
+msgid "Unsubscription HTML Form"
+msgstr ""
+
+#: simple-popup-newsletter.php:95
+msgid "Popup Newsletter"
+msgstr ""
+
+#: simple-popup-newsletter.php:96
+msgid "Options"
+msgstr ""
+
+#: simple-popup-newsletter.php:97
+msgid "Language"
+msgstr ""
+
+#: simple-popup-newsletter.php:98
+msgid "Import"
+msgstr ""
+
+#: simple-popup-newsletter.php:302
+msgid "No records available!"
+msgstr ""
+
+#: simple-popup-newsletter.php:312
+msgid "Subscriber's List"
+msgstr ""
+
+#: simple-popup-newsletter.php:314
+msgid "Export .csv"
+msgstr ""
+
+#: simple-popup-newsletter.php:315
+msgid "Export Only Emails"
+msgstr ""
+
+#: simple-popup-newsletter.php:319
+msgid "Time Descending"
+msgstr ""
+
+#: simple-popup-newsletter.php:320
+msgid "Email Ascending"
+msgstr ""
+
+#: simple-popup-newsletter.php:321
+msgid "Name Ascending"
+msgstr ""
+
+#: simple-popup-newsletter.php:323
+msgid "- Order"
+msgstr ""
+
+#: simple-popup-newsletter.php:325
+msgid "- Check All Boxes"
+msgstr ""
+
+#: simple-popup-newsletter.php:326
+msgid "Delete Checked Emails"
+msgstr ""
+
+#: simple-popup-newsletter.php:333 simple-popup-newsletter.php:342
+msgid "Date"
+msgstr ""
+
+#: simple-popup-newsletter.php:334 simple-popup-newsletter.php:343
+msgid "Name"
+msgstr ""
+
+#: simple-popup-newsletter.php:335 simple-popup-newsletter.php:344
+msgid "Email"
+msgstr ""
+
+#: simple-popup-newsletter.php:393
+msgid "First"
+msgstr ""
+
+#: simple-popup-newsletter.php:394
+msgid "Previous"
+msgstr ""
+
+#: simple-popup-newsletter.php:400
+msgid "Next"
+msgstr ""
+
+#: simple-popup-newsletter.php:401
+msgid "Last"
+msgstr ""

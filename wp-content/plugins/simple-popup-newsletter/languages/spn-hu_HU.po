@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simplepopupnewsletter\n"
+"POT-Creation-Date: 2015-09-12 18:53+0100\n"
+"PO-Revision-Date: 2015-09-12 19:31+0100\n"
+"Last-Translator: Zsolt <zsooolt2@hotmail.com>\n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: c:\\!_simplePopupNewsletter\\_new\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-popup-newsletter-import.php:42
+msgid "Import and append from .CSV file"
+msgstr "Importálás és hozzáfűzés CSV fájlból"
+
+#: simple-popup-newsletter-import.php:45
+msgid ""
+"If you want, first delete the contact data which will be duplicated. Because "
+"the plugin will append the CSV list."
+msgstr ""
+"Ha akarja, először törölje a kontakt adatokat, amelyek megduplázódnak. Mert "
+"a bővítmény hozzáfűzi a CSV listát az eddigiekhez."
+
+#: simple-popup-newsletter-import.php:46
+msgid "Select file"
+msgstr "Válasszon fájlt"
+
+#: simple-popup-newsletter-import.php:47
+msgid ""
+"You should use the CSV file which was exported from the Simple Popup "
+"Newsletter Plugin."
+msgstr ""
+"Azt a CSV fájlt használja, amelyet a Popup Newsletter bővítménnyel exportált."
+
+#: simple-popup-newsletter-import.php:49
+msgid "Import file"
+msgstr "Importálás"
+
+#: simple-popup-newsletter-langs.php:9
+msgid ""
+"Newsletter subscription! Add your email address and your name, than click "
+"subscription button."
+msgstr ""
+"Iratkozzon fel hírlevelünkre. Adja meg e-mail címét és nevét, majd "
+"kattintson a feliratkozás gombra."
+
+#: simple-popup-newsletter-langs.php:10
+msgid "Enter your email address for unsubscription."
+msgstr "Írja be e-mail címét a leiratkozáshoz."
+
+#: simple-popup-newsletter-langs.php:11
+msgid "Your name:"
+msgstr "Neve:"
+
+#: simple-popup-newsletter-langs.php:12
+msgid "Email address:"
+msgstr "E-mail címe:"
+
+#: simple-popup-newsletter-langs.php:13
+msgid "Subscription"
+msgstr "Feliratkozás"
+
+#: simple-popup-newsletter-langs.php:14
+msgid "Unsubscription"
+msgstr "Leiratkozás"
+
+#: simple-popup-newsletter-langs.php:15
+msgid "Exit"
+msgstr "Kilép"
+
+#: simple-popup-newsletter-langs.php:47
+msgid "Language Text Options"
+msgstr "Nyelvi beállítások"
+
+#: simple-popup-newsletter-langs.php:55
+msgid "Leave the value empty, if you want the text in English."
+msgstr "Hagyd a mezőket üresen, ha az alapbeállításokat akarod."
+
+#: simple-popup-newsletter-langs.php:56 simple-popup-newsletter-options.php:85
+msgid "Save Changes"
+msgstr "Módosítások mentése"
+
+#: simple-popup-newsletter-options.php:26
+msgid "Setting Parameter Options"
+msgstr "Paraméter beállítások"
+
+#: simple-popup-newsletter-options.php:31
+msgid "Subscription and the unsubscription pop-up are active"
+msgstr "Feliratkozás és leiratkozás aktív"
+
+#: simple-popup-newsletter-options.php:36
+msgid "Showing subscription pop-up window after this delay in milliseconds"
+msgstr "Felugró vagy popup ablak késleltetése ezred másodpercben"
+
+#: simple-popup-newsletter-options.php:41
+msgid ""
+"Significant part of the unsubscription URI in order to show pop-up window on "
+"this page."
+msgstr "Jellemző URL, ahol a leiratkozó popup, felugró ablak megjelenjen."
+
+#: simple-popup-newsletter-options.php:42
+msgid "For example:"
+msgstr "Például:"
+
+#: simple-popup-newsletter-options.php:47
+msgid ""
+"Insert subscription button in the text editor, or copy this code into the "
+"widget text."
+msgstr ""
+"Illeszd be a gombot a szövegszerkesztőbe vagy használd a text widgetet."
+
+#: simple-popup-newsletter-options.php:53
+msgid ""
+"Insert unsubscription button in the text editor, or copy this code into the "
+"widget text."
+msgstr ""
+"Illeszd be a gombot a szövegszerkesztőbe vagy használd a text widgetet."
+
+#: simple-popup-newsletter-options.php:59
+msgid "Your name"
+msgstr "Neve"
+
+#: simple-popup-newsletter-options.php:61
+msgid "Your email address"
+msgstr "E-mail címe"
+
+#: simple-popup-newsletter-options.php:64
+#: simple-popup-newsletter-options.php:73
+msgid "Send"
+msgstr "Elküldés"
+
+#: simple-popup-newsletter-options.php:79
+msgid "Hide pop-up windows and allow my own HTML forms like these codes below"
+msgstr "Felugró ablakok elrejtése, és a HTML formok használata(lásd. alább)"
+
+#: simple-popup-newsletter-options.php:81
+msgid ""
+"Subscription HTML Form. (You can insert these in text widget for example.)"
+msgstr ""
+"Feliratkozó HTML Form. (Beillesztheted egy text vagy szöveges widgetbe.)"
+
+#: simple-popup-newsletter-options.php:82
+msgid "Unsubscription HTML Form"
+msgstr "Leiratkozás HTML Form"
+
+#: simple-popup-newsletter.php:95
+msgid "Popup Newsletter"
+msgstr "Popup Newsletter"
+
+#: simple-popup-newsletter.php:96
+msgid "Options"
+msgstr "Opciók"
+
+#: simple-popup-newsletter.php:97
+msgid "Language"
+msgstr "Nyelv"
+
+#: simple-popup-newsletter.php:98
+msgid "Import"
+msgstr "Import"
+
+#: simple-popup-newsletter.php:302
+msgid "No records available!"
+msgstr "Nincs adat!"
+
+#: simple-popup-newsletter.php:312
+msgid "Subscriber's List"
+msgstr "Feliratkozók listája"
+
+#: simple-popup-newsletter.php:314
+msgid "Export .csv"
+msgstr "Export .CSV"
+
+#: simple-popup-newsletter.php:315
+msgid "Export Only Emails"
+msgstr "E-mail Export"
+
+#: simple-popup-newsletter.php:319
+msgid "Time Descending"
+msgstr "Idő szerint csökkenő"
+
+#: simple-popup-newsletter.php:320
+msgid "Email Ascending"
+msgstr "E-mail szerint növekbő"
+
+#: simple-popup-newsletter.php:321
+msgid "Name Ascending"
+msgstr "Név szerint növekvő"
+
+#: simple-popup-newsletter.php:323
+msgid "- Order"
+msgstr "- Sorrend"
+
+#: simple-popup-newsletter.php:325
+msgid "- Check All Boxes"
+msgstr "- Mindet kijelöli"
+
+#: simple-popup-newsletter.php:326
+msgid "Delete Checked Emails"
+msgstr "Kijelöltek Törlése"
+
+#: simple-popup-newsletter.php:333 simple-popup-newsletter.php:342
+msgid "Date"
+msgstr "Dátum"
+
+#: simple-popup-newsletter.php:334 simple-popup-newsletter.php:343
+msgid "Name"
+msgstr "Név"
+
+#: simple-popup-newsletter.php:335 simple-popup-newsletter.php:344
+msgid "Email"
+msgstr "E-mail"
+
+#: simple-popup-newsletter.php:393
+msgid "First"
+msgstr "Első"
+
+#: simple-popup-newsletter.php:394
+msgid "Previous"
+msgstr "Előző"
+
+#: simple-popup-newsletter.php:400
+msgid "Next"
+msgstr "Következő"
+
+#: simple-popup-newsletter.php:401
+msgid "Last"
+msgstr "Utolsó"
